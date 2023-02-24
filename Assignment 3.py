@@ -1,4 +1,4 @@
-https://github.com/Manuel-opoku/Assignment-5/blob/main/Assignment%205.py#L51
+https://github.com/Manuel-opoku/Assignment-3/edit/main/Assignment%203.py
 #list of cars avialable and their prices3)
 cars = {"Mercedes":28000, 
         "Altima":5000,
